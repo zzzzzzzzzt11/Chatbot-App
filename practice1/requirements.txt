@@ -1,0 +1,6 @@
+pip install tensorflow==2.15.0
+pip install keras==2.15.0
+pip install numpy
+pip install matplotlib
+pip install tqdm
+pip install pyqt5
